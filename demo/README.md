@@ -27,7 +27,7 @@ The Spring Boot application in this branch serves as the foundation for the Kube
    git checkout spring-boot-app
     ```
 
-2. Run the APplication
+2. Run the Application
 
 - You can run the application using Maven Wrapper:
 
