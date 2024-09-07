@@ -36,7 +36,7 @@ git checkout <branch-name>
 
 ## Roadmap
 
-- [ ] Initial Spring Boot Setup
+- [X] Initial Spring Boot Setup
 - [ ] Containerization with Buildpacks
 - [ ] Knative deployment
 - [ ] GitOps using ArgoCD
