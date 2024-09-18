@@ -1,0 +1,10 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: kube-spring-demo
+  namespace: default
+spec:
+  template:
+    spec:
+      containers:
+        - image: demo:0.0.1-SNAPSHOT
